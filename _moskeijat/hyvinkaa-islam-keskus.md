@@ -159,5 +159,5 @@ galleria:
   - /tiedostot/hyvinkaa-islam-keskus/rukoussali.jpg
 
 artikkelit:
-  lahteet: [ islaminusko ]
+  lahteet: []
 ---

@@ -1,5 +1,5 @@
 ---
-luonnos: true        # moskeija tarkistaa sivun; kun hyväksytty → false (Pages CMS: Moskeijat → Luonnos)
+luonnos: true # moskeija tarkistaa sivun; kun hyväksytty → false (Pages CMS: Moskeijat → Luonnos)
 # Hyvinkää Islam Keskus. Tiedot ja kuvat moskeijan omalta sivulta hyvinkaaislamkeskus.fi
 # (8.11.2026) sekä Mawaqitista. Muokkaa Pages CMS:ssä: https://app.pagescms.org
 title: "Hyvinkää Islam Keskus"
@@ -14,8 +14,8 @@ puhelin: ""
 whatsapp: ""
 sahkoposti: "hyvinkaaislamkeskus@gmail.com"
 nettisivu: "https://hyvinkaaislamkeskus.fi/"
-kielet: [suomi, arabia, englanti]
-juma: "12.30"     # talviaika; kesäaikaan 13.30
+kielet: [ suomi, arabia, englanti ]
+juma: "12.30" # talviaika; kesäaikaan 13.30
 
 # Rukousajat: Mawaqitista automaattisesti (adhan, iqamah, Jumuah, kuvat)
 rukousajat:
@@ -24,11 +24,8 @@ rukousajat:
   iqamah_oletus: { fajr: 10, dhuhr: 10, asr: 10, maghrib: 5, isha: 10 }
 
 some:
-  instagram: ""
-  facebook: ""
-  youtube: ""
-  telegram: ""
-  tiktok: ""
+  instagram: "https://www.instagram.com/masjidsunnah.fin/"
+  youtube: "https://youtube.com/@amauofficial?si=6SkdDrZ386ZNXsgf"
 
 teema:
   logo: /tiedostot/hyvinkaa-islam-keskus/logo.png
@@ -46,9 +43,9 @@ teema:
   hero: vaalea
 
 alku:
-  tausta: kuvio          # kuvio | kuva | vari
+  tausta: kuvio # kuvio | kuva | vari
   kuva: /tiedostot/hyvinkaa-islam-keskus/rukous.jpg
-  napit: [lapsi, toiminta]
+  napit: [ lapsi, toiminta ]
 
 hero_tunniste:
   fi: "Hyvinkää"
@@ -162,5 +159,5 @@ galleria:
   - /tiedostot/hyvinkaa-islam-keskus/rukoussali.jpg
 
 artikkelit:
-  lahteet: [islaminusko]
+  lahteet: [ islaminusko ]
 ---

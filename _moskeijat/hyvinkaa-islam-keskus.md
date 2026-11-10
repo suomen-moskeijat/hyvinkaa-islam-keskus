@@ -158,4 +158,13 @@ galleria:
 
 artikkelit:
   lahteet: []
+etusivu:
+  - osio: toiminta
+  - osio: lapset
+  - osio: tapahtumat
+  - osio: artikkelit
+  - osio: meista
+  - osio: galleria
+  - osio: lahjoitus
+  - osio: vierailu
 ---

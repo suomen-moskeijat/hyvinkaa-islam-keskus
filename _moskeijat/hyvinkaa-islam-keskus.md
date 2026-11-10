@@ -23,9 +23,7 @@ rukousajat:
   tunnus: "hyvinkaa-islam-keskus-hyvinkaa-05800-finland"
   iqamah_oletus: { fajr: 10, dhuhr: 10, asr: 10, maghrib: 5, isha: 10 }
 
-some:
-  instagram: "https://www.instagram.com/masjidsunnah.fin/"
-  youtube: "https://youtube.com/@amauofficial?si=6SkdDrZ386ZNXsgf"
+some: {}
 
 teema:
   logo: /tiedostot/hyvinkaa-islam-keskus/logo.png

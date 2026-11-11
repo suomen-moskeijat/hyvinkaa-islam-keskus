@@ -1,5 +1,5 @@
 ---
-luonnos: true # moskeija tarkistaa sivun; kun hyväksytty → false (Pages CMS: Moskeijat → Luonnos)
+luonnos: false # moskeija tarkistaa sivun; kun hyväksytty → false (Pages CMS: Moskeijat → Luonnos)
 # Hyvinkää Islam Keskus. Tiedot ja kuvat moskeijan omalta sivulta hyvinkaaislamkeskus.fi
 # (8.11.2026) sekä Mawaqitista. Muokkaa Pages CMS:ssä: https://app.pagescms.org
 title: "Hyvinkää Islam Keskus"

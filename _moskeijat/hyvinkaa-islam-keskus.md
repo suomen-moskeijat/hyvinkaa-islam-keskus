@@ -167,4 +167,6 @@ etusivu:
   - osio: galleria
   - osio: lahjoitus
   - osio: vierailu
+yhteydenotto:
+  lomakkeet: sahkoposti
 ---

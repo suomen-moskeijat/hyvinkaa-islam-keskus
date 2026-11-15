@@ -169,4 +169,9 @@ etusivu:
   - osio: vierailu
 yhteydenotto:
   lomakkeet: sahkoposti
+ilmoitus:
+  teksti:
+    fi: Eid rukous klo 07:00
+  alkaa: 2026-11-15
+  loppuu: 2026-11-15
 ---

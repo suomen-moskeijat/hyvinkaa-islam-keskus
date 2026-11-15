@@ -6,5 +6,5 @@ moskeija: hyvinkaa-islam-keskus     # tiedosto _moskeijat/hyvinkaa-islam-keskus.
 
 # Osoite: https://suomen-moskeijat.github.io/hyvinkaa-islam-keskus/
 # Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
-url: "https://suomen-moskeijat.github.io"
-baseurl: "/hyvinkaa-islam-keskus"
+url: "https://hyvinkaaislamkeskus.fi"
+baseurl: ""

@@ -101,31 +101,6 @@ palvelut_esittely:
   fi: "Viikoittaista opetusta lapsille, nuorille ja aikuisille: Koraanin lukemista, islamin perusteita ja hyviä käytöstapoja. Moskeija on avoinna päivittäisiin rukouksiin – olet aina tervetullut rukoilemaan!"
   en: "Weekly classes for children, youth and adults: reading the Quran, the basics of Islam and good manners. The mosque is open for the daily prayers – you are always welcome to pray!"
   ar: "دروس أسبوعية للأطفال والشباب والكبار: تلاوة القرآن وأساسيات الإسلام والأخلاق الحسنة. المسجد مفتوح للصلوات اليومية – أهلاً بكم دائماً."
-palvelut:
-  - kuvake: moskeija
-    nimi: { fi: "Perjantai: Jumua", en: "Friday: Jumu'ah", ar: "الجمعة: صلاة الجمعة" }
-    kuvaus:
-      fi: "Perjantairukous talviaikaan klo 12.30 ja kesäaikaan klo 13.30."
-      en: "Friday prayer at 12:30 in winter time and 13:30 in summer time."
-      ar: "صلاة الجمعة الساعة ⁦12:30⁩ في التوقيت الشتوي و⁦13:30⁩ في التوقيت الصيفي."
-  - kuvake: ryhma
-    nimi: { fi: "Lauantai: miesten luento (ders)", en: "Saturday: lecture for men (ders)", ar: "السبت: درس للرجال" }
-    kuvaus: { fi: "Klo 20.00–22.00", en: "20:00–22:00", ar: "⁦20:00–22:00⁩" }
-  - kuvake: lapsi
-    nimi: { fi: "Sunnuntai: lasten arabian ja islamin kurssi", en: "Sunday: Arabic and Islam for children", ar: "الأحد: العربية والتربية الإسلامية للأطفال" }
-    kuvaus: { fi: "Klo 13.00–15.00", en: "13:00–15:00", ar: "⁦13:00–15:00⁩" }
-  - kuvake: kirja
-    nimi: { fi: "Sunnuntai: naisten Koraanikurssi", en: "Sunday: Quran course for women", ar: "الأحد: دورة القرآن للنساء" }
-    kuvaus: { fi: "Klo 13.00–15.00", en: "13:00–15:00", ar: "⁦13:00–15:00⁩" }
-  - kuvake: hattu
-    nimi: { fi: "Sunnuntai: miesten ja nuorten Koraanin luku", en: "Sunday: Quran reading for men and youth", ar: "الأحد: تلاوة القرآن للرجال والشباب" }
-    kuvaus: { fi: "Klo 15.00–17.00", en: "15:00–17:00", ar: "⁦15:00–17:00⁩" }
-  - kuvake: tahti
-    nimi: { fi: "Juhlat ja elämän tärkeät hetket", en: "Celebrations and life events", ar: "المناسبات والأحداث المهمة" }
-    kuvaus:
-      fi: "Tarawih-rukoukset, Eid-rukoukset, hautajaisrukous (janaza) ja islamilaiset avioliitot (nikah) sekä yhteisöllisiä kokoontumisia."
-      en: "Tarawih prayers, Eid prayers, funeral prayer (janazah), Islamic marriages (nikah) and community gatherings."
-      ar: "صلاة التراويح وصلاة العيد وصلاة الجنازة وعقود النكاح واللقاءات المجتمعية."
 
 lasten_opetus:
   kaytossa: true

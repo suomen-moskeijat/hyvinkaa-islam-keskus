@@ -8,5 +8,5 @@ kuvaus:
 yhteys: false
 otsikko_en: Celebrations and life events
 otsikko_ar: المناسبات والأحداث المهمة
-jarjestys: 6
+jarjestys: 1
 ---

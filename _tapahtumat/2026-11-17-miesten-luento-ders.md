@@ -9,4 +9,9 @@ alkaa: "20.00"
 loppuu: "22.00"
 otsikko_en: "Lecture for men (ders)"
 otsikko_ar: "درس للرجال"
+ilmoittaudu: lomake
+lomake:
+  kentat: []
+  suostumus: false
+otsikko_so: Muxaadaro ragga loogu talagalay
 ---

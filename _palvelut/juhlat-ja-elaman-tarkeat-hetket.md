@@ -17,9 +17,8 @@ yhteys_teksti:
   so: Nala soo xiriir si aan waqti u ballanno oo aan kuu sheegno wax dheeraad ah.
 yhteys_nappi:
   fi: Ota yhteyttä
-  en: Ask about this
-  ar: اسأل عن هذا
-  so: Wax ka weydii
+  en: Contact Us
+  ar: تواصل معنا
 lomake:
   kentat: []
   suostumus: false

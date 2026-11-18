@@ -9,4 +9,8 @@ alkaa: "13.00"
 loppuu: "15.00"
 otsikko_en: "Quran course for women"
 otsikko_ar: "دورة القرآن للنساء"
+ilmoittaudu: lomake
+lomake:
+  kentat: []
+  suostumus: false
 ---

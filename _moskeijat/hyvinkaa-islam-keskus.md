@@ -132,29 +132,7 @@ galleria:
 artikkelit:
   lahteet: []
 etusivu:
-  - osio: toiminta
-  - osio: nosto
-    kuvake: hattu
-    yla:
-      fi: Lasten opetus
-      en: Children's education
-      ar: تعليم الأطفال
-      so: Waxbarashada carruurta
-    otsikko:
-      fi: Ilmoita lapsesi opetukseen
-      en: Register your child for classes
-      ar: سجّل طفلك في الدروس
-      so: Ka diiwaangeli ilmahaaga waxbarashada
-    teksti:
-      fi: Lasten arabian kielen ja islamin opetus sunnuntaisin klo 13–15.
-      en: Arabic and Islam classes for children on Sundays 13:00–15:00.
-      ar: "دروس العربية والتربية الإسلامية للأطفال أيام الأحد ⁦13:00–15:00⁩: تلاوة القرآن وأساسيات الإسلام والأخلاق الحسنة."
-    nappi_teksti:
-      fi: Ilmoittaudu
-      en: Register
-      ar: سجّل الآن
-      so: Is diiwaangeli
-    nappi_linkki: /palvelut/lasten-opetus/
+  - osio: palvelut
   - osio: tapahtumat
   - osio: artikkelit
   - osio: meista

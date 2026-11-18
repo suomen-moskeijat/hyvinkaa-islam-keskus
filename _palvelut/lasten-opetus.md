@@ -105,7 +105,7 @@ lomake:
     ar: إرسال التسجيل
     so: Dir diiwaangelinta
   lahetys: whatsapp
-  whatsapp: "0405684620"
+  whatsapp: "+35405684620"
 otsikko_en: Children's education
 otsikko_ar: تعليم الأطفال
 otsikko_so: Waxbarashada carruurta

@@ -43,7 +43,16 @@ teema:
 alku:
   tausta: kuvio # kuvio | kuva | vari
   kuva: /tiedostot/hyvinkaa-islam-keskus/rukous.jpg
-  napit: [ lapsi, toiminta ]
+  napit:
+    - oma
+    - toiminta
+  oma_nappi:
+    teksti:
+      fi: Ilmoita lapsesi opetukseen
+      en: Register your child for classes
+      ar: سجّل طفلك في الدروس
+      so: Ka diiwaangeli ilmahaaga waxbarashada
+    linkki: /palvelut/lasten-opetus/
 
 hero_tunniste:
   fi: "Hyvinkää"
@@ -102,17 +111,6 @@ palvelut_esittely:
   en: "Weekly classes for children, youth and adults: reading the Quran, the basics of Islam and good manners. The mosque is open for the daily prayers – you are always welcome to pray!"
   ar: "دروس أسبوعية للأطفال والشباب والكبار: تلاوة القرآن وأساسيات الإسلام والأخلاق الحسنة. المسجد مفتوح للصلوات اليومية – أهلاً بكم دائماً."
 
-lasten_opetus:
-  kaytossa: true
-  teksti:
-    fi: "Lasten arabian kielen ja islamin opetus sunnuntaisin klo 13–15. Opiskelemme Koraanin lukemista, islamin perusteita ja hyviä käytöstapoja. Ilmoita lapsesi alla olevalla lomakkeella – viesti lähtee sähköpostilla keskukselle."
-    en: "Arabic and Islam classes for children on Sundays 13:00–15:00. We study reading the Quran, the basics of Islam and good manners. Register your child with the form below – the message is sent to the centre by email."
-    ar: "دروس العربية والتربية الإسلامية للأطفال أيام الأحد ⁦13:00–15:00⁩: تلاوة القرآن وأساسيات الإسلام والأخلاق الحسنة. سجّل طفلك عبر النموذج أدناه، وتصل الرسالة إلى المركز بالبريد الإلكتروني."
-  tyypit:
-    - { fi: "Arabian kieli", en: "Arabic", ar: "اللغة العربية" }
-    - { fi: "Islamin opetus", en: "Islamic studies", ar: "التربية الإسلامية" }
-    - { fi: "Molemmat", en: "Both", ar: "كلاهما" }
-
 lahjoitus:
   teksti:
     fi: "Otamme kiitollisina vastaan tukea keskuksen ylläpitoon. Vieraillessasi meillä voit antaa lahjoituksen paikan päällä: käytössä on lahjoituslipas ja korttimaksupääte. Voit tukea toimintaamme myös liittymällä jäseneksi."
@@ -135,7 +133,28 @@ artikkelit:
   lahteet: []
 etusivu:
   - osio: toiminta
-  - osio: lapset
+  - osio: nosto
+    kuvake: hattu
+    yla:
+      fi: Lasten opetus
+      en: Children's education
+      ar: تعليم الأطفال
+      so: Waxbarashada carruurta
+    otsikko:
+      fi: Ilmoita lapsesi opetukseen
+      en: Register your child for classes
+      ar: سجّل طفلك في الدروس
+      so: Ka diiwaangeli ilmahaaga waxbarashada
+    teksti:
+      fi: Lasten arabian kielen ja islamin opetus sunnuntaisin klo 13–15.
+      en: Arabic and Islam classes for children on Sundays 13:00–15:00.
+      ar: "دروس العربية والتربية الإسلامية للأطفال أيام الأحد ⁦13:00–15:00⁩: تلاوة القرآن وأساسيات الإسلام والأخلاق الحسنة."
+    nappi_teksti:
+      fi: Ilmoittaudu
+      en: Register
+      ar: سجّل الآن
+      so: Is diiwaangeli
+    nappi_linkki: /palvelut/lasten-opetus/
   - osio: tapahtumat
   - osio: artikkelit
   - osio: meista

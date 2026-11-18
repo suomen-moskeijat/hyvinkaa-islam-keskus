@@ -44,8 +44,8 @@ alku:
   tausta: kuvio # kuvio | kuva | vari
   kuva: /tiedostot/hyvinkaa-islam-keskus/rukous.jpg
   napit:
-    - oma
     - toiminta
+    - lapsi
   oma_nappi:
     teksti:
       fi: Ilmoita lapsesi opetukseen

@@ -8,7 +8,6 @@ johdanto:
   fi: Vastauksia kysymyksiin, joita meiltä usein kysytään.
   en: Answers to questions we are often asked.
   ar: إجابات عن الأسئلة التي تُطرح علينا كثيرًا.
-linkit: []
 osiot:
   - osio: ukk
     kysymykset:

@@ -8,3 +8,4 @@ moskeija: hyvinkaa-islam-keskus     # tiedosto _moskeijat/hyvinkaa-islam-keskus.
 # Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
 url: "https://hyvinkaaislamkeskus.fi"
 baseurl: ""
+kaannos: automaattinen   # automaattinen = tallennus kääntää puuttuvat tekstit tekoälyllä, vain_suomi = ei käännetä (hallintapaneeli → Asetukset)

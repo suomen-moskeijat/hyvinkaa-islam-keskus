@@ -14,4 +14,9 @@ lomake:
   kentat: []
   suostumus: false
 otsikko_so: Muxaadaro ragga loogu talagalay
+yhteys_teksti:
+  fi: Kerro, että tulet, tai kysy lisää. Vastaamme pian.
+  en: Let us know you are coming, or ask us anything. We will reply soon.
+  ar: أخبرنا بحضورك أو اسألنا ما تريد. سنرد قريبًا.
+  so: Noo sheeg inaad imanayso, ama wax na weydii. Dhawaan ayaan kuu jawaabi doonaa.
 ---

@@ -141,4 +141,20 @@ etusivu:
   - osio: vierailu
 yhteydenotto:
   lomakkeet: sahkoposti
+  kysy:
+    teksti:
+      fi: Onko sinulla kysyttävää opetuksesta, ilmoittautumisesta tai moskeijan toiminnasta? Lähetä meille viesti.
+      en: Do you have questions about classes, registration or the mosque's activities? Send us a message.
+      ar: هل لديك أسئلة حول الدروس أو التسجيل أو أنشطة المسجد؟ أرسل لنا رسالة.
+      so: Ma qabtaa su'aal ku saabsan waxbarashada, diiwaangelinta ama hawlaha masjidka? Noo soo dir fariin.
+yhteystiedot_johdanto:
+  fi: Tervetuloa käymään moskeijassa tai ota meihin yhteyttä.
+  en: You are welcome to visit the mosque or get in touch.
+  ar: مرحباً بزيارتكم للمسجد أو التواصل معنا.
+  so: Ku soo dhowow masjidka ama nala soo xiriir.
+tapahtumat_johdanto:
+  fi: Säännöllinen toiminta ja tulevat tapahtumat.
+  en: Regular activities and upcoming events.
+  ar: الأنشطة المنتظمة والفعاليات القادمة.
+  so: Hawlaha joogtada ah iyo dhacdooyinka soo socda.
 ---
